@@ -1,0 +1,1 @@
+import { primSzam } from "../fuggvenyek.js";
